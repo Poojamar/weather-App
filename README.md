@@ -6,7 +6,7 @@ The Weather App is a web application that fetches real-time weather data from th
 - Automatically detect and display the weather data of the user's current location (optional).
 - Responsive design to ensure a seamless experience across devices.
 
-## <p>Live: <a style=" text-decoration:none;" href=""></a></p>
+## <p>Live: <a style=" text-decoration:none;" href="https://poojamar.github.io/weather-App/">https://poojamar.github.io/weather-App/</a></p>
 ## 👩‍💻 Skills used
 - HTML5
 
